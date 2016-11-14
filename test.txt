@@ -1,0 +1,14 @@
+EDITED: 11/15/2016
+
+TASKS: 
+- 
+
+FOR UI:
+
+- Font: Tahoma. Size 13 for labels (see forms to understand), Size 14 sa body [bold: header, plain: contents]
+- Admin/Waiter/Kitchen Staff Homepages not yet done D:
+
+
+
+
+
